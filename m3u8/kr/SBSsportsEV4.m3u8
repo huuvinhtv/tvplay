@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=65000
+http://tvlive.sbs.co.kr/sbsevent4/event4.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MDc4ODEyMzIsInBhdGgiOiIvZXZlbnQ0LnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiNjI1NWM2MmItNTA0Ni00YWMwLTliNDEtODNmMmYzM2FlNDc4In0.2H5ikvohf_LMmcgdfE0Us_2pmNv0Ka26EpyD7yJkC18&solsessionid=4c1619ad61c5d07c5585f507efa69f3d

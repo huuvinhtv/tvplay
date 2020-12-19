@@ -6,7 +6,7 @@
 
 
 #~♥ Kênh K+ ♥~
-#EXTINF:-1 group-title="K+" tvg-id="K+1 HD (DRM))" tvg-logo="https://i.postimg.cc/FsHjTQW7/k_1hd.png",K+1 HD
+#EXTINF:-1 group-title="K+" tvg-name="kplus1hd" tvg-id="K+ 1 (HD)" tvg-logo="https://i.postimg.cc/FsHjTQW7/k_1hd.png",K+1 HD
 #http://mytv.tranvinh.tk:6868/rtp/232.84.1.122:10314
 http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
 #EXTINF:-1 group-title="K+" tvg-id="K+ NS (HD)" tvg-logo="https://i.postimg.cc/HnBbTSxY/k_nshd.png",K+NS HD 

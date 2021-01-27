@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1692000
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_HD.smil/chunklist.m3u8
+http://203.162.123.181:21585/vtvcab16/tracks-v1a1/mono.m3u8

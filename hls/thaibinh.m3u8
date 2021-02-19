@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2692000,RESOLUTION=1920x1080
+http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8

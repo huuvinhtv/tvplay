@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2692000
-http://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_PhimChauA_new1.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
+
+https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_PhimChauA_new1.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50

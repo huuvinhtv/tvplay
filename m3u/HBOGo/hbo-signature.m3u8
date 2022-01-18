@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2692000,RESOLUTION=1280x720
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/3.m3u8

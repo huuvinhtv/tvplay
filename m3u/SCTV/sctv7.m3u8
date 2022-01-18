@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2692000,RESOLUTION=1024x576
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/sd2/index.m3u8

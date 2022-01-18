@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1692000,RESOLUTION=1080x720
+https://livecdn.fptplay.net/tvc/sukien01_2000.stream/chunklist.m3u8

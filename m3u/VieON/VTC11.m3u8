@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=4692000,RESOLUTION=1920x1080
+https://live-vthcm.vieon.vn/vtc/live/sd_vtc11/TV_HD/sd_vtc11_480p/chunks.m3u8

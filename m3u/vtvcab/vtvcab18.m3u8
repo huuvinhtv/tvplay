@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:26
+#EXTINF:9.901,
+http://vnpt.zaltv.club/hls/keo.ts
+#EXTINF:9.901,
+http://vnpt.zaltv.club/hls/keo.ts
+#EXTINF:9.501,
+http://vnpt.zaltv.club/hls/keo.ts
+
+

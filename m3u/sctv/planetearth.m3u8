@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2692000,RESOLUTION=1280x720
-https://e4.endpoint.cdn.sctvonline.vn/secure/planetearth/index.m3u8?md5=6LuAM_K-RRvmm5Vq-zMaZw&expires=2556118740
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2692000
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8

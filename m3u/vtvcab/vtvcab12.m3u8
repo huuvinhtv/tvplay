@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1692000
-http://112.197.12.62/secure/vtvcab12/index.m3u8?md5=16_sk-wKZo227CghUseBkQ&expires=2556118740
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab12/index.m3u8

@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000,RESOLUTION=1280x720
-http://htv-drm-live-cdn.fptplay.net/htvonline/paramount.720p.nimble.tms/playlist.m3u8
+https://htv-drm-live-cdn.fptplay.net/htvonline/paramount.720p.nimble.tms/playlist.m3u8
 
 

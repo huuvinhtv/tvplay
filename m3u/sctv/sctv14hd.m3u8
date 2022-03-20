@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:BANDWIDTH=1692000,RESOLUTION=1280x720
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv14/sd1/index.m3u8?md5=bs-8dgbSHwp63TDXoCpnkw&expires=2556118740
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14/s1/index.m3u8

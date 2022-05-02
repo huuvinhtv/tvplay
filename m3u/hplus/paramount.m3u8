@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2314081,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1280x720
-http://htv-drm-live-cdn.fptplay.net/htvonline/paramount.720p.nimble.tms/chunks.m3u8
+http://drm-live-cdn.fptplay.net/htvonline/paramount.720p.nimble.tms/chunks.m3u8
 
 

@@ -4,5 +4,9 @@
 #EXT-X-MEDIA-SEQUENCE:26
 #EXTINF:9.901,
 http://vnpt.zaltv.gq/hls/keo.ts
+#EXTINF:9.901,
+http://vnpt.zaltv.gq/hls/keo.ts
 #EXTINF:9.501,
 http://vnpt.zaltv.gq/hls/keo.ts
+
+

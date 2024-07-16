@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:26
+#EXTINF:9.901,
+http://www.todaytv.vn/upload/videos/mb/2019/04/23/11.mp4
+#EXTINF:9.501,
+http://www.todaytv.vn/upload/videos/mb/2019/04/23/12.mp4
+
+

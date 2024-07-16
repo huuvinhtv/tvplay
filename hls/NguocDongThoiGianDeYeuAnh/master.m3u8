@@ -3,15 +3,13 @@
 #EXT-X-VERSION:7
 #EXT-X-MEDIA-SEQUENCE:1
 #EXT-X-PLAYLIST-TYPE:VOD
-#EXT-X-MAP:URI="http://www.todaytv.vn/upload/videos/mb/2019/04/23/11.mp4",BYTERANGE="560@0"
+#EXT-X-MAP:URI="main.mp4",BYTERANGE="560@0"
 #EXTINF:4.96907,    
 #EXT-X-BYTERANGE:25312@560
 http://www.todaytv.vn/upload/videos/mb/2019/04/23/11.mp4
-#EXT-X-MAP:URI="http://www.todaytv.vn/upload/videos/mb/2019/04/23/12.mp4",BYTERANGE="560@0"
 #EXTINF:4.96907,    
 #EXT-X-BYTERANGE:25440@25872
 http://www.todaytv.vn/upload/videos/mb/2019/04/23/12.mp4
-#EXT-X-MAP:URI="http://www.todaytv.vn/upload/videos/mb/2019/04/23/13.mp4",BYTERANGE="560@0"
 #EXTINF:4.96907,    
 #EXT-X-BYTERANGE:25440@51312
 http://www.todaytv.vn/upload/videos/mb/2019/04/23/13.mp4

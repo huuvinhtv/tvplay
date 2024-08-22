@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+# Add the subtitle track
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Vietnamese",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="vi",URI="https://phimnhua.net/wp-content/uploads/2023/03/ps_1985.vtt"
+
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,CODECS="avc1.42e01e,mp4a.40.2",SUBTITLES="subs"
+https://vn04.quaivat.com/002/police_story_1985/ps_1985.m3u8

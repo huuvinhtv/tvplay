@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:5
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="sub1",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog,public.accessibility.describes-music-and-sound",NAME="English CC",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,LANGUAGE="en",URI="https://phimnhua.net/wp-content/uploads/2023/03/ps_1985.vtt"
+#EXT-X-STREAM-INF:BANDWIDTH=2516370,AVERAGE-BANDWIDTH=2516370,CODECS="mp4a.40.2,avc1.640020",RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE,SUBTITLES="sub1"
+https://vn04.quaivat.com/002/police_story_1985/ps_1985.m3u8

@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:8
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:8.333333,
+De-Yang-Gatal-Gatal-Sa0.ts
+#EXTINF:8.333333,
+De-Yang-Gatal-Gatal-Sa1.ts
+#EXTINF:8.333333,
+De-Yang-Gatal-Gatal-Sa2.ts
+#EXTINF:8.333333,
+De-Yang-Gatal-Gatal-Sa3.ts
+#EXTINF:2.733333,
+De-Yang-Gatal-Gatal-Sa4.ts
+#EXT-X-ENDLIST

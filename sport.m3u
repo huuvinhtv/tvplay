@@ -1,0 +1,172 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://rem.rs/uploads/attachment/pruzalac/1636/thumb_arena_fight.png" group-title="Thể Thao", Arena Fight HD
+http://79.127.207.193:80/ArenaFight/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wmvrmi1643205486.png" group-title="Thể Thao", Arena Premium 1 HD
+http://79.127.207.193:80/ArenaPremiumHR1HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/l4y8gt1643205498.png" group-title="Thể Thao", Arena Premium 2 HD
+http://79.127.207.193:80/ArenaPremium2HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gtlulj1643205508.png" group-title="Thể Thao", Arena Premium 3 HD
+http://79.127.207.193:80/ArenaPremium3HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fsn4wz1643206149.png" group-title="Thể Thao", Arena Sport 1 HD
+http://79.127.207.193:80/ArenaSport1HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m4cqz91643205540.png" group-title="Thể Thao", Arena Sport 2 HD
+http://79.127.207.193:80/ArenaSport2HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/hugsy31643206186.png" group-title="Thể Thao", Arena Sport 3 HD
+http://79.127.207.193:80/ArenaSport3HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mn99a31643206204.png" group-title="Thể Thao", Arena Sport 4 HD
+http://79.127.207.193:80/ArenaSport4HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2kuqly1643205772.png" group-title="Thể Thao", Arena Sport 5 HD
+http://79.127.207.193:80/ArenaSport5HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gcy7ct1643205612.png" group-title="Thể Thao", Arena Sport 6 HD
+http://79.127.207.193:80/ArenaSport6HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/1kc26o1643205642.png" group-title="Thể Thao", Arena Sport 7 HD
+http://79.127.207.193:80/ArenaSport7HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zuhnap1643205837.png" group-title="Thể Thao", Arena Sport 9 HD
+http://79.127.207.193:80/ArenaSport9HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wntrz71643205857.png" group-title="Thể Thao", Arena Sport 10 HD
+http://79.127.207.193:80/ArenaSport10HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4jcpre1657031942.png" group-title="Thể Thao", Art Sport 1 HD
+http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwbqic1657031982.png" group-title="Thể Thao", Art Sport 2 HD
+http://79.127.207.193:80/ArtSport2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n5n1sd1657031998.png" group-title="Thể Thao", Art Sport 3 HD
+http://79.127.207.193:80/ArtSport3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YKroJkR.png" group-title="Thể Thao", Art Sport 4 HD
+http://79.127.207.193:80/ArtSport4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Xh3tZ7F.png" group-title="Thể Thao", Art Sport 5 HD
+http://79.127.207.193:80/ArtSport5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OneWQ24.png" group-title="Thể Thao", Art Sport 6 HD
+http://79.127.207.193:80/ArtSport6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1r5T6Pw.png" group-title="Thể Thao", BAND HD
+https://02.arlivre.online/band/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="Thể Thao", BAND Sport HD
+https://02.arlivre.online/bandsport/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZPYK5jr.png" group-title="Thể Thao", Combate HD
+https://02.arlivre.online/combate/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="Thể Thao", Espn 2 HD
+https://02.arlivre.online/espn2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/512px-ESPN3_Logo.png" group-title="Thể Thao", Espn 3 HD
+https://02.arlivre.online/espn3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Thể Thao", Espn 4 HD
+https://02.arlivre.online/espn4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Thể Thao", Espn HD
+https://02.arlivre.online/espn/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.worldvectorlogo.com/logos/eurosport-1-logo-2015.svg" group-title="Thể Thao", Euro Sport 1 HD
+http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_2_Logo_2015.png" group-title="Thể Thao", Euro Sport 2 HD
+http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1280px-Fight_network_logo.svg.png" group-title="Thể Thao", Fight Network HD
+http://79.127.207.193:80/FightNetwork/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WGXHDnF/logo-ge-fast.png" group-title="Thể Thao", GLOBO SP HD
+https://02.arlivre.online/globosp/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Thể Thao", History 2 HD
+https://02.arlivre.online/history2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AIBCNjg.png" group-title="Thể Thao", KSport 1 HD
+http://79.127.207.193:80/KSport1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AgJVcFV.png" group-title="Thể Thao", KSport 2 HD
+http://79.127.207.193:80/KSport2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Lws2hMt.png" group-title="Thể Thao", KSport 3 HD
+http://79.127.207.193:80/KSport3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0UNEZpU.png" group-title="Thể Thao", KSport 4 HD
+http://79.127.207.193:80/KSport4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/512px-Premiere_(2017)_logo.png" group-title="Thể Thao", PREMIERE 1 HD
+https://02.arlivre.online/pre1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/512px-Premiere_(2017)_logo.png" group-title="Thể Thao", PREMIERE 2 HD
+https://02.arlivre.online/pre2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/512px-Premiere_(2017)_logo.png" group-title="Thể Thao", PREMIERE 3 HD
+https://02.arlivre.online/pre3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/512px-Premiere_(2017)_logo.png" group-title="Thể Thao", PREMIERE 4 HD
+https://02.arlivre.online/pre4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/512px-Premiere_(2017)_logo.png" group-title="Thể Thao", PREMIERE 5 HD
+https://02.arlivre.online/pre5/index.m3u8
+
+#EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Rai_Sport_-_Logo_2022.svg" group-title="Thể Thao", Rai Sport HD
+http://79.127.207.193:80/RaiSport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wMrtS1qZ/rtshsport.png" group-title="Thể Thao", RTSH Sport HD
+http://79.127.207.193:80/RTSHSport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Thể Thao", SBT HD
+https://02.arlivre.online/sbt/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/SPACE_91.png/revision/latest/scale-to-width-down/250?cb=20190507161026" group-title="Thể Thao", SPACE HD
+https://02.arlivre.online/space/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pBiUnb2.png" group-title="Thể Thao", SporTV 2 HD
+https://02.arlivre.online/sportv2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mWOR8pi.png" group-title="Thể Thao", SporTV 3 HD
+https://02.arlivre.online/sportv3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="Thể Thao", SporTV HD
+https://02.arlivre.online/sportv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KXdVDis.png" group-title="Thể Thao", Super Sport 1 HD
+http://79.127.207.193:80/Supersport1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Dz2P72Mx/supersport2.png" group-title="Thể Thao", Super Sport 2 HD
+http://79.127.207.193:80/Supersport2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c7ySFzl.png" group-title="Thể Thao", Super Sport 3 HD
+http://79.127.207.193:80/Supersport3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZF70zIL.png" group-title="Thể Thao", Super Sport 4 HD
+http://79.127.207.193:80/Supersport4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8ly2J9P.png" group-title="Thể Thao", Super Sport 5 HD
+http://79.127.207.193:80/Supersport5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qIYK2nF.png" group-title="Thể Thao", Super Sport 6 HD
+http://79.127.207.193:80/Supersport6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/d3T85DhV/supersport7.png" group-title="Thể Thao", Super Sport 7 HD
+http://79.127.207.193:80/Supersport7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="Thể Thao", TNT HD
+https://02.arlivre.online/tnt/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u5MxGbS.png" group-title="Thể Thao", Tring Sport 1 HD
+http://79.127.207.193:80/TringSport1HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Tring_Sport_2_HD_AL_logo.png" group-title="Thể Thao", Tring Sport 2 HD
+http://79.127.207.193:80/TringSport2HD/playlist.m3u8
